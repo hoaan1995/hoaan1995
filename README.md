@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/hoaan1995/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hoaan1995&show_icons=true&theme=highcontrast"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaan1995&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaan1995&layout=Gradient"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="zxcr9999-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
