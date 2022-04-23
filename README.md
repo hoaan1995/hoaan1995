@@ -1,7 +1,7 @@
 ## Welcome !!
  <div>
   <a href="https://github.com/hoaan1995/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaan1995"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gradient"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoaan1995&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
