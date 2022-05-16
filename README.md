@@ -8,7 +8,6 @@
   <img align="center" alt="zxcr9999-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="zxcr9999-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="zxcr9999-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="zxcr9999-yoda" src="https://c.tenor.com/KmPFMGQ07-4AAAAd/hffgf.gif">
 </div>
   
   ##
