@@ -14,9 +14,8 @@
   ##
  
 <div> 
-  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Telegram-lightgrey?style=for-the-badge&logo=telegram" target="_blank"></a>
- <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.youtube.com/channel/UClh2X_QJyOWy9RLpGOLnZIA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.t.me/zxcr9999" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram" target="_blank"></a>
   <a href = "zxcr9999@protonmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 <a href="https://github.com/hoaan1995"><img alt="zxcr9999 Graph"
