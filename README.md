@@ -20,6 +20,7 @@ Hi, I'm <a href="https://github.com/hoaan1995" rel="nofollow">zxcr9999</a>!
 Disclaimer:-
 
 Repos. or Starred projects in this profile is for EDUCATIONAL PURPOSES ONLY, I'm not responsible for any bad uses from anyone ❌✋
+
 CONDI NEVER DIE!
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
